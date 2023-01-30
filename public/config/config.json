@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x2430e42b3c7c727f187528346ec50e1d3485d127",
-  "SCAN_LINK": "https://www.oklink.com/en/okc-test/tokenAddr/0x2430e42b3c7c727f187528346ec50e1d3485d127",
+  "CONTRACT_ADDRESS": "0xa234fb51e295cf386915f3aa66a29b9e074c69d5",
+  "SCAN_LINK": "https://www.oklink.com/en/okc-test/tokenAddr/0xa234fb51e295cf386915f3aa66a29b9e074c69d5",
   "NETWORK": {
     "NAME": "OKC",
     "SYMBOL": "OKT",
     "ID": 65
   },
-  "NFT_NAME": "Monnterlnn",
-  "SYMBOL": "monzap",
+  "NFT_NAME": "HVAONLINEk",
+  "SYMBOL": "HVAONZ",
   "MAX_SUPPLY": 4444,
   "WEI_COST": 1500000000000000,
   "DISPLAY_COST": 0.0015,
