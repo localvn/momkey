@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x147c76Ec55A027d37E8A70080b2Ce101d50AD736",
+  "SCAN_LINK": "https://www.oklink.com/en/okc/address/0x147c76ec55a027d37e8a70080b2ce101d50ad736",
+  "NETWORK": {
+    "NAME": "OKC",
+    "SYMBOL": "OKT",
+    "ID": 66
+  },
+  "NFT_NAME": "MonkeysOKC",
+  "SYMBOL": "MonOKC",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 1500000000000000,
+  "DISPLAY_COST": 0.0015,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OKX",
+  "MARKETPLACE_LINK": "https://www.okx.com/web3/nft/markets/collection/okc/monkeysokc-1",
+  "SHOW_BACKGROUND": true
+}
