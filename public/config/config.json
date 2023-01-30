@@ -4,14 +4,13 @@
   "NETWORK": {
     "NAME": "OKC",
     "SYMBOL": "OKT",
-    "ID": 66
+    "ID": 65
   },
-  "NFT_NAME": "MonkeysOKC",
-  "SYMBOL": "MonOKC",
+  "NFT_NAME": "Monnterlnn",
+  "SYMBOL": "monzap",
   "MAX_SUPPLY": 4444,
   "WEI_COST": 1500000000000000,
   "DISPLAY_COST": 0.0015,
-  "GAS_LIMIT": 372459,
   "MARKETPLACE": "OKX",
   "MARKETPLACE_LINK": "https://www.okx.com/web3/nft/markets/collection/okc/monkeysokc-1",
   "SHOW_BACKGROUND": true
